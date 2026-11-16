@@ -15,5 +15,3 @@ public class BubbleSort {
             if (!trocou) break;
         }
     }
-}
-
